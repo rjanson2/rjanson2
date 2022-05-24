@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rjanson2
+- 👋 Hi, I’m Rob
 - 👀 I’m interested in ethical local credit systems
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on local government API standards
